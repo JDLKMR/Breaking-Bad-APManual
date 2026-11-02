@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Desert Escape 1 (Defeat Emilio) (Pilot, 49m45s)",
+    "region": "RV",
+    "category": [
+      "Season 1"
+    ],
+    "requires": "|Phosphine Gas| AND |Gas Masks|"
+  },
+  {
+    "name": "Desert Escape 2 (Stranded RV) (4 Days Out, 38m40s)",
+    "region": "RV",
+    "category": [
+      "Season 2"
+    ],
+    "requires": "|Makeshift Battery|"
+  },
+  {
+    "name": "Desert Escape 3 (Post-Jack) (Ozymandias, 21m45s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Purchased Truck| AND |Coordinates|"
+  },
+  {
+    "name": "\"My Name is Skyler White, Yo\" (Cat's in the Bag, 39m30s)",
+    "region": "RV",
+    "category": [
+      "Season 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "\"Yeah Bitch, Magnets\" (Live Free or Die, 27m25s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Jesse Pinkman| AND |Magnet|"
+  },
+  {
+    "name": "Wipe Gus's Laptop (Live Free or Die, 33m50s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Magnet| AND |Mike Ehrmantraut| AND |Jesse Pinkman|"
+  },
+  {
+    "name": "\"He Can't Keep Getting Away With It\" (Rabid Dog, 22m40s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Jesse Pinkman| AND |Lily of the Valley|"
+  },
+  {
+    "name": "\"This Is Not Meth\" (Crazy Handful of Nothin', 43m40s)",
+    "category": [
+      "Season 1"
+    ],
+    "requires": "|Fulminated Mercury|"
+  },
+  {
+    "name": "Defeat Krazy-8 (And the Bag's in the River, 38m05s)",
+    "category": [
+      "Season 1"
+    ],
+    "requires": "|Bike Lock| AND |Broken Plate Piece|"
+  },
+  {
+    "name": "Gale's Death (Full Measure, 42m55s)",
+    "category": [
+      "Season 3"
+    ],
+    "requires": "|Gale's Address| AND |Leaves of Grass|",
+    "region": "Meth Superlab"
+  },
+  {
+    "name": "Defeat Tuco (Grilled, 40m30s)",
+    "category": [
+      "Season 2"
+    ],
+    "requires": "|Ricin| AND |Hector Salamanca| AND |Jesse Pinkman| AND |Hank's Gun|"
+  },
+  {
+    "name": "Defeat Gus (Face Off, 37m15s)",
+    "category": [
+      "Season 4"
+    ],
+    "requires": "|Meth Superlab| AND |Hector Salamanca| AND |Bomb|"
+  },
+  {
+    "name": "Hank's Death (Ozymandias, 07m20s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Coordinates|"
+  },
+  {
+    "name": "Defeat the Cousins (One Minute, 41m05s)",
+    "category": [
+      "Season 3"
+    ],
+    "requires": "|Hank's Gun|"
+  },
+  {
+    "name": "Mike's Death (Say My Name, 43m30s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Mike Ehrmantraut|"
+  },
+  {
+    "name": "Don Eladio's Death (Salud, 43m40s)",
+    "category": [
+      "Season 4"
+    ],
+    "requires": "|Zafiro| AND |Jesse Pinkman| AND |Mike Ehrmantraut|"
+  },
+  {
+    "name": "Prison Massacre (Gliding Over All, 17m00s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|List of Names|"
+  },
+  {
+    "name": "Ted's Fall (Crawl Space, 30m10s)",
+    "category": [
+      "Season 4"
+    ],
+    "requires": "|Saul Goodman| AND |Huell Babineaux|"
+  },
+  {
+    "name": "Walter's Death (Defeat Jack & Free Jesse) (Felina, 43m10s)",
+    "victory": true,
+    "region": "Flash-Forward Albuquerque",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Trunk Machine Gun| AND |Jesse Pinkman| AND |Ricin| AND |Todd Alquist|"
+  },
+  {
+    "name": "Jane's Death (Phoenix, 44m35s)",
+    "category": [
+      "Season 2"
+    ],
+    "requires": "|Jesse Pinkman| AND |Owed Bag of Cash|"
+  },
+  {
+    "name": "\"I Am the One Who Knocks\" (Cornered, 08m45s)",
+    "category": [
+      "Season 4"
+    ],
+    "requires": "|Heisenberg's Hat|"
+  },
+  {
+    "name": "\"Say My Name\" (Say My Name, 05m10s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Heisenberg's Hat|"
+  },
+  {
+    "name": "Defeat Fly (Fly, 42m30s)",
+    "category": [
+      "Season 3"
+    ],
+    "requires": "|Newspaper|",
+    "region": "Meth Superlab"
+  },
+  {
+    "name": "Cancer Diagnosis (Pilot, 18m00s)",
+    "category": [
+      "Season 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Recruiting Jesse (Pilot, 27m05s)",
+    "category": [
+      "Season 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Train Heist (Dead Freight, 36m30s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Jesse Pinkman| AND |Mike Ehrmantraut| AND |Todd Alquist|"
+  },
+  {
+    "name": "\"I did it for me.\" (Felina, 33m10s)",
+    "region": "Flash-Forward Albuquerque",
+    "category": [
+      "Season 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hank's Realization (Gliding Over All, 45m00s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Leaves of Grass|"
+  },
+  {
+    "name": "Victor's Death (Box Cutter, 27m30s)",
+    "region": "Meth Superlab",
+    "category": [
+      "Season 4"
+    ],
+    "requires": "|Box Cutter|"
+  },
+  {
+    "name": "Airline Collision (ABQ, 44m30s)",
+    "category": [
+      "Season 2"
+    ],
+    "requires": "|Owed Bag of Cash|"
+  },
+  {
+    "name": "Kidnapping Saul (Better Call Saul, 29m45s)",
+    "region": "RV",
+    "category": [
+      "Season 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Andrea's Death (Granite State, 33m05s)",
+    "category": [
+      "Season 5"
+    ],
+    "requires": "|Jesse Pinkman| AND |Todd Alquist|"
+  },
+  {
+    "name": "Bathtub Collapse (Cat's in the Bag, 44m25s)",
+    "category": [
+      "Season 1"
+    ],
+    "requires": "|Jesse Pinkman|"
+  },
+  {
+    "name": "ATM Murder (Peekaboo, 42m05s)",
+    "category": [
+      "Season 2"
+    ],
+    "requires": "|Jesse Pinkman|"
+  }
+]

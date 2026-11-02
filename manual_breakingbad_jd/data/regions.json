@@ -1,0 +1,23 @@
+{
+  "RV": {
+    "connects_to": [],
+    "requires": "|RV| AND |Jesse Pinkman|"
+  },
+  "Flash-Forward Albuquerque": {
+    "connects_to": [],
+    "requires": "|Saul Goodman| AND |Hoover Max Extract Pressure Pro Model 60 Dust Filter| AND |Car Keys|"
+  },
+  "Albuquerque": {
+    "starting": true,
+    "connects_to": [
+      "RV",
+      "Flash-Forward Albuquerque",
+      "Meth Superlab"
+    ],
+    "requires": []
+  },
+  "Meth Superlab": {
+    "connects_to": [],
+    "requires": "|Meth Superlab| AND |Jesse Pinkman|"
+  }
+}
